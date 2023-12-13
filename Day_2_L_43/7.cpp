@@ -16,7 +16,7 @@ Protected mode: If we derive a subclass from a Protected base class. Then both p
 Private mode: If we derive a subclass from a Private base class. Then both public members and protected members of the base class will become Private in the derived class.
 
 */
-// Defining member functions without argument within the class
+// Defining member functions without argument within the class.
 #include<iostream>
 using namespace std;
 class Person
